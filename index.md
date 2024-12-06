@@ -1,10 +1,18 @@
+<script type="text/javascript">
+  MathJax = {
+    tex: {
+      inlineMath: [ ['$', '$'], ['\\(', '\\)'] ], // Support both $...$ and \(...\) for inline math
+      displayMath: [ ['$$', '$$'], ['\\[', '\\]'] ] // Support $$...$$ and \[...\] for display math
+    }
+  };
+</script>
 <script type="text/javascript" async
   src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/3.2.2/es5/tex-mml-chtml.js">
 </script>
 
-#                           Die Gruppen mit
+#                                         Die Gruppen mit
 
-#                  quadratfreier Ordnungszahl
+#                                   quadratfreier Ordnungszahl
 
 ##                                         by Otto Hölder
 
